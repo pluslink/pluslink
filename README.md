@@ -22,7 +22,7 @@ I'm interested in connecting with strategic partners who:
 
 
 
-💡[Blockchain Research Work]: Overview of current research
+💡 Research Work: Overview of current research
 - VR00T: Short explanation of another significant project
 - InstrumentsReserve: Short explanation of another significant project
 - Derivbit: Short explanation of another significant project
@@ -39,11 +39,11 @@ Show Image
 
 🤝 Connect & Collaborate
 
-- 📫 Email: ri@xxxr.org
+- 📫 Email:
 
 - 🔗 LinkedIn: https://www.linkedin.com/in/ricardoid/
 
-- 🌐 Website: https://www.xxxr.org
+- 🌐 Website:
 
 
 
@@ -62,4 +62,4 @@ I'm always open to discussing:
 Show Image
 
 
-🎯 "Innovation without ethics is just exploitation"
+🎯 "The best research is not just about finding answers, but asking the right questions with the right people"
