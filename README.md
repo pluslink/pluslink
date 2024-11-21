@@ -13,12 +13,7 @@ I'm interested in connecting with strategic partners who:
 - Want to contribute to sustainable and impactful solutions
 
 
-📈 GitHub Stats
-Show Image
-
-
 💬 Let's Connect
-
 I'm always open to discussing:
 - Research collaborations
 - Joint development projects
@@ -36,6 +31,8 @@ I'm always open to discussing:
 - 📫 Email:
 
 
+📈 GitHub Stats
+Show Image
 
 
 📊 Featured Repositories
