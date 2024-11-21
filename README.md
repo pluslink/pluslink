@@ -1,6 +1,7 @@
 🌟 Welcome to My Digital Lab Space
 
 
+
 🔬 Research & Development Professional
 
 Bridging the gap between academic research and practical software development. Passionate about turning complex problems into elegant solutions while maintaining strong ethical principles. Actively seeking strategic partnerships with like-minded individuals and organizations who share a commitment to ethical innovation.
