@@ -2,10 +2,12 @@
 
 
 🔬 Research & Development Professional
+
 Bridging the gap between academic research and practical software development. Passionate about turning complex problems into elegant solutions while maintaining strong ethical principles. Actively seeking strategic partnerships with like-minded individuals and organizations who share a commitment to ethical innovation.
 
 
 🤝 Looking for Collaboration
+
 I'm interested in connecting with strategic partners who:
 - Share a commitment to ethical research and development
 - Value transparent and responsible innovation
@@ -14,6 +16,7 @@ I'm interested in connecting with strategic partners who:
 
 
 💬 Let's Connect
+
 I'm always open to discussing:
 - Research collaborations
 - Joint development projects
