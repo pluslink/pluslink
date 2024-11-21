@@ -34,12 +34,4 @@ I'm always open to discussing:
 - 📫 Email:
 
 
-📈 GitHub Stats
-Show Image
-
-
-📊 Featured Repositories
-Show Image
-
-
 🎯 "The best research is not just about finding answers, but asking the right questions with the right people"
