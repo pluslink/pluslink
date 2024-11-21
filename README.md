@@ -29,9 +29,9 @@ I'm always open to discussing:
 
 - 🔗 LinkedIn: https://www.linkedin.com/in/ricardoid/
 
-- 🌐 Website:
+- 🌐 Website: https://www.xxxr.org
 
-- 📫 Email:
+- 📫 Email: ri@xxxr.org
 
 
 🎯 "The best research is not just about finding answers, but asking the right questions with the right people"
